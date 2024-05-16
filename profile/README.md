@@ -12,3 +12,4 @@ All repositories here start with a letter. The letter describes the purpose of t
 | T | template |
 | F | frontend |
 | E | enviroment |
+| LIB | library |
