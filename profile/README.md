@@ -1,7 +1,6 @@
-# Juwel development
+# JuweL development
 
-Hi there, I am here to share some of ideas and concepts about the development and tooling.
-
+Hi there, I am here to share some ideas and concepts about development, tooling, and software architecture.
 
 ## Repository naming conventions
 
